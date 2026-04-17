@@ -1,1 +1,1 @@
-Hello sir Mearsk! Please access through the file "templates".
+Hello sir Mearsk! The final project is in "yes.zip"
